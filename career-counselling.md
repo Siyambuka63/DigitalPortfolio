@@ -7,7 +7,7 @@
 ## Reflection (STAR)
 
 **S** (Situation):  
-I accessed the Career Development content and quiz on Blackboard.
+As part of the work readiness program, I was given access to the Career Development content and quiz on Blackboard.
 
 **T** (Task):  
 My goal was to discover a career path that matches my personal interests and technical skills.
