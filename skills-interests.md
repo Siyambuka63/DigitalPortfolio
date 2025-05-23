@@ -7,7 +7,7 @@
 ## Reflection (STAR)
 
 **S** (Situation):  
-I accessed the Skills and Interests content and quiz on Blackboard.
+As part of the work readiness program, I was given access to the Skills and Interests content and quiz on Blackboard.
 
 **T** (Task):  
 My goal was to identify my skills and how they align with my interests.
