@@ -7,7 +7,7 @@
 ## Reflection (STAR)
 
 **S** (Situation):  
-I got access to the slides on Career Development on Blackboard.
+I accessed the Career Development content and quiz on Blackboard.
 
 **T** (Task):  
 My goal was to discover a career path that matches my personal interests and technical skills.
